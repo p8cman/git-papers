@@ -1,5 +1,6 @@
 #testing
 written by Smith, John and me!
+my affliation: NTU
 
 #Introduction
 This is a nice paper.
