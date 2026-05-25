@@ -1,5 +1,6 @@
 #testing
-written by me!
+written by me and John!
+Our interesting paper.
 
 #Introduction
 This is a nice paper.
