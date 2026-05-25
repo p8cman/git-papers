@@ -1,5 +1,5 @@
 #testing
-written by me!
+written by Smith, John and me!
 
 #Introduction
 This is a nice paper.
