@@ -10,6 +10,9 @@ Really cool results.
 #Figures
 Very beautiful figure.
 
+#Conclusions
+This paper is worth publishing.
+
 #References
 Smith, J. (2020)
 John, L. (2019)
